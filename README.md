@@ -1,4 +1,4 @@
-# 基于ioctlbf框架编写驱动漏洞挖掘工具的kDriver Fuzzer
+# 基于ioctlbf框架编写的驱动漏洞挖掘工具kDriver Fuzzer
 
 作者：k0shl  
 
