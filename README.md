@@ -1,9 +1,12 @@
 # 基于ioctlbf框架编写驱动漏洞挖掘工具的kDriver Fuzzer
 
-####作者：k0shl  
-####作者博客：https://whereisk0shl.top
-####ioctlbf项目地址：https://github.com/koutto/ioctlbf
-####kDriver Fuzzer项目地址：https://github.com/k0keoyo/kDriver-Fuzzer
+作者：k0shl  
+
+作者博客：https://whereisk0shl.top
+
+ioctlbf项目地址：https://github.com/koutto/ioctlbf
+
+kDriver Fuzzer项目地址：https://github.com/k0keoyo/kDriver-Fuzzer
 
 - - - - --
 
@@ -60,3 +63,11 @@
 
 对X驱动的ioctl code 0xaabb1122-0xaabb3344范围内进行探测，探测时采用null pointer模式，并数据日志记录
 
+![](https://github.com/k0keoyo/kDriver-Fuzzer/blob/master/framework.png)
+
+
+### Thanks:
+
+https://github.com/bee13oy/AV_Kernel_Vulns/tree/master/Zer0Con2017
+
+https://github.com/koutto/ioctlbf
