@@ -4,6 +4,8 @@
 
 作者博客：https://whereisk0shl.top
 
+kDriver Fuzzer整体细节：https://whereisk0shl.top/post/2018-01-30
+
 ioctlbf项目地址：https://github.com/koutto/ioctlbf
 
 kDriver Fuzzer项目地址：https://github.com/k0keoyo/kDriver-Fuzzer
