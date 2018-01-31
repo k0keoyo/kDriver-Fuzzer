@@ -10,6 +10,8 @@ ioctlbf项目地址：https://github.com/koutto/ioctlbf
 
 kDriver Fuzzer项目地址：https://github.com/k0keoyo/kDriver-Fuzzer
 
+联系我：k0pwn_0110@sina.cn
+
 - - - - --
 
 ### kDriver Fuzzer使用说明
