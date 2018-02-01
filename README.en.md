@@ -8,7 +8,7 @@ In the past few months, I spent a lot of time debugging various high quality fuz
 
 Using kDriver Fuzzer, I harvested over 100 CVEs in the drivers written by a variety of software developers, in 2017.
 
-There are many kernel driver fuzzers out there, but kDriver Fuzzer is free open source software, and it has a lot of comments in its code, which is a good tool for learners. The coding style of this project imitates that of `ioctlbf`.
+There are many kernel driver fuzzers out there, but kDriver Fuzzer is free open source software, and has a lot of comments in its code, which makes it a good tool for learners. The coding style of this project imitates that of `ioctlbf`.
 
 In addition, Happy Lunar New Year to everyone!
 
@@ -59,7 +59,7 @@ kDriver Fuzz.exe -d X -r 0xaabb1122-0xaabb3344 -n -l
 
 Perform "null pointer" fuzzing on the ioctl code of driver `X`, ranging from `0xaabb1122` to `0xaabb3344`. Enable logging.
 
-![A diagram](https://github.com/k0keoyo/kDriver-Fuzzer/blob/master/framework.png)
+[kDriver Fuzzer diagram (Chinese)](https://github.com/k0keoyo/kDriver-Fuzzer/blob/master/framework.png)
 
 
 ### About the project, and the author
@@ -68,10 +68,8 @@ Perform "null pointer" fuzzing on the ioctl code of driver `X`, ranging from `0x
 
 kDriver Fuzzer implementation detail and case studies: https://whereisk0shl.top/post/2018-01-30
 
-ioctlbf Repository: https://github.com/koutto/ioctlbf
-
 ### References
 
-https://github.com/bee13oy/AV_Kernel_Vulns/tree/master/Zer0Con2017
+Attacking Antivirus Software's Kernel Driver: https://github.com/bee13oy/AV_Kernel_Vulns/tree/master/Zer0Con2017
 
-https://github.com/koutto/ioctlbf
+ioctlbf Repository: https://github.com/koutto/ioctlbf
