@@ -12,13 +12,11 @@ There are many kernel driver fuzzers out there, but kDriver Fuzzer is free open 
 
 In addition, Happy Lunar New Year to everyone!
 
-### Development Environments
+### Development Environment
 
-Compiled on: Windows 10 x64 build 1607
-
-IDE: Visual Studio 2013
-
-Tested on: Windows 7 x86, Windows 10 x86 build 1607
+- IDE: Visual Studio 2013
+- Compiled on: Windows 10 x64 build 1607
+- Tested on: Windows 7 x86, Windows 10 x86 build 1607
 
 ### Usage
 
